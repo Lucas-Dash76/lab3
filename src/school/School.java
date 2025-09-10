@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-//https://github.com/Lucas-Dash76/lab3
+//https://github.com/Lucas-Dash76/lab3/tree/master
 package school;
 
 
